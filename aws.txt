@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-2too much off anything is good for nothing
-=======
-1too much off anything is good for nothing ok
->>>>>>> release1
+
+control too much off anything is good for nothing ok
+
