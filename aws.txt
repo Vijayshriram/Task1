@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 
 control too much off anything is good for nothing ok
 
+=======
+control too much off anything is good for nothing ok
+>>>>>>> main
+
+Tips to Avoid Conflicts
+Pull often: Keep your branch updated with git pull origin main
+
+Communicate: Know what your teammates are editing
+
+Use small, focused branches: Easier to merge
